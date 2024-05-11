@@ -92,5 +92,5 @@ if (command) {
  maqeBot.move(command);
  console.log(`X: ${maqeBot.x} Y: ${maqeBot.y} Direction: ${maqeBot.direction}`);
 } else {
- console.log('โปรดระบุคำสั่งสำหรับหุ่นยนต์ MAQE Bot');
+ console.log('โปรดระบุคำ Code MAQE Bot');
 }
