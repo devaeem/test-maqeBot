@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.ts W5RW5RW2RW1R"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.5"
+  }
+}
